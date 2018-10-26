@@ -1,0 +1,4 @@
+rootProject.name = 'AEN-sdk'
+include 'crypto'
+include 'buffers'
+
