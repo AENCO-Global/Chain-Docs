@@ -5,7 +5,7 @@
         <p>Start integrating AEN into your application.</p>
         <div class="image-container">
 
-.. image:: resources/images/AEN-developers.png
+.. image:: resources/images/aen-developers.png
     :align: center
     :height: 300px
 

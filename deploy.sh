@@ -4,6 +4,11 @@ echo "[P1] Version Number is :$1 "
 echo "[P2] Target Server is :$2 "
 echo "[P3] Target Folder is :$3 "
 echo "---------------------------------------"
+echo "Dependancies to install with sudo apt are:"
+echo "python"
+echo "pip"
+echo "python-sphinx"
+echo "---------------------------------------"
 
 echo "--=== Run local Build ===--"
 pip install -r requirements.txt

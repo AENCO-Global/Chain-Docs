@@ -19,14 +19,14 @@ You have to link nodes together, connecting the previous node outputs with the f
 
 In some cases, you could configure inputs and properties directly by double-clicking a node.
 
-.. figure:: ../resources/images/AEN-prototyping-tool-1.png
+.. figure:: ../resources/images/aen-prototyping-tool-1.png
     :align: center
 
     The node palette and node help sidebars.
 
 2. Let's link account with other nodes. As we need a ``privateKey`` as an input, we could opt to drag and drop and link **generateAccount** with **account** node, under *AEN Account*.
 
-.. figure:: ../resources/images/AEN-prototyping-tool-2.png
+.. figure:: ../resources/images/aen-prototyping-tool-2.png
     :align: center
     :width: 500px
 
@@ -34,7 +34,7 @@ In some cases, you could configure inputs and properties directly by double-clic
 
 3. Double-click on account node. Choose the ``network`` you want to use. Do the same for generateAccount node.
 
-.. figure:: ../resources/images/AEN-prototyping-tool-3.png
+.. figure:: ../resources/images/aen-prototyping-tool-3.png
     :align: center
     :width: 500px
 
@@ -52,7 +52,7 @@ Running a flow
 
 2. Check the output returned at the right sidebar, under the debug tab. AEN nodes return outputs following the structure ``msg.AEN.<name_of_the_output>``.
 
-.. figure:: ../resources/images/AEN-prototyping-tool-4.png
+.. figure:: ../resources/images/aen-prototyping-tool-4.png
     :align: center
     :width: 500px
 
@@ -65,8 +65,8 @@ Running a flow
 
 .. |installation-instructions| raw:: html
 
-    <a href="https://github.com/AENtech/AEN-prototyping-tool" target="_blank">installation instructions</a>
+    <a href="https://github.com/AENtech/aen-prototyping-tool" target="_blank">installation instructions</a>
 
 .. |download-the-app| raw:: html
 
-    <a href="https://github.com/AENtech/AEN-prototyping-tool/releases" target="_blank">Download the app</a>
+    <a href="https://github.com/AENtech/aen-prototyping-tool/releases" target="_blank">Download the app</a>

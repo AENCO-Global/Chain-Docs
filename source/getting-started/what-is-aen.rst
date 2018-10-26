@@ -30,7 +30,7 @@ All the functionalities are available through the API interface on each node in 
 
 Some examples of possible architecture solutions:
 
-.. figure:: ../resources/images/arquitecturing-AEN-solutions.png
+.. figure:: ../resources/images/arquitecturing-aen-solutions.png
     :align: center
     :width: 600px
 

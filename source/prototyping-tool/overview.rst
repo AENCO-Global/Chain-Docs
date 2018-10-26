@@ -31,7 +31,7 @@ Download and run the |executable-package| for **Windows**, **Linux** or **Mac**.
 
 Do you already have Node-RED app? Open ``Manage palette`` and install |node-red-contrib-AEN| package.
 
-.. figure:: ../resources/images/AEN-prototyping-tool-install.png
+.. figure:: ../resources/images/aen-prototyping-tool-install.png
     :align: center
     :width: 500px
 
@@ -41,9 +41,9 @@ Do you already have Node-RED app? Open ``Manage palette`` and install |node-red-
 
     <a href="https://nodered.org/" target="_blank">Node-RED</a>
 
-.. |AEN-Prototyping-Tool| raw:: html
+.. |aen-prototyping-tool| raw:: html
 
-    <a href="https://github.com/AENtech/AEN-prototyping-tool" target="_blank">AEN Prototyping Tool</a>
+    <a href="https://github.com/AENtech/aen-prototyping-tool" target="_blank">AEN Prototyping Tool</a>
 
 .. |node-red-contrib-AEN| raw:: html
 
@@ -51,9 +51,9 @@ Do you already have Node-RED app? Open ``Manage palette`` and install |node-red-
 
 .. |executable-package| raw:: html
 
-    <a href="https://github.com/AENtech/AEN-prototyping-tool/releases/tag/v0.10.0" target="_blank">executable package</a>
+    <a href="https://github.com/AENtech/aen-prototyping-tool/releases/tag/v0.10.0" target="_blank">executable package</a>
 
 .. |installation| raw:: html
 
-    <a href="https://github.com/AENtech/AEN-prototyping-tool/tree/v0.10.0#installation" target="_blank">installation</a>
+    <a href="https://github.com/AENtech/aen-prototyping-tool/tree/v0.10.0#installation" target="_blank">installation</a>
 

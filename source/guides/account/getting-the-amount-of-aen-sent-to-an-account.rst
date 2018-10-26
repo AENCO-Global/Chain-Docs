@@ -31,7 +31,7 @@ Let’s get into some code
         :lines:  22-
 
     .. literalinclude:: ../../resources/examples/java/src/test/java/aen/guides/examples/account/GettingTheAmountOfAENSentToAnAccount.java
-        :caption: |getting-amount-of-AENC-sent-to-an-account-java|
+        :caption: |getting-amount-of-aenc-sent-to-an-account-java|
         :language: java
         :lines: 40-66
 

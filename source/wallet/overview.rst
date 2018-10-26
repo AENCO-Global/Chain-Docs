@@ -33,4 +33,4 @@ Add a new wallet to this page by clicking the *"Edit on Github"* button at the t
 
 .. |prototyping-tool-repo| raw:: html
 
-   <a href="https://github.com/AENtech/AEN-prototyping-tool" target="_blank">Repository</a>
+   <a href="https://github.com/AENtech/aen-prototyping-tool" target="_blank">Repository</a>
