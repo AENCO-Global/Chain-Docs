@@ -14,7 +14,7 @@ echo "--=== Run local Build ===--"
 pip install -r requirements.txt
 ./build.sh
 echo "-----------------------------------------"
-echo "Version $1" > ./server/version.html
+echo "Version $1" > .//version.html
 echo "--------------------------------------"
 
 echo "--=== Transfer files to remote Server ===--"
