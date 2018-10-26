@@ -27,7 +27,7 @@ AEN-camel aims to solve these problems by providing a server that listens to the
 
 .. note:: The function ``TransactionHttp.announceSync`` allows announcing transactions synchronously when using  AEN-camel as a proxy.  AEN-camel will respond successfully when the transaction has reached the network and had no validation errors.  You might still need to :doc:`wait for several confirmations  <../../concepts/transaction>` before executing additional actions.
 
-.. figure:: ../../resources/images/guides-transactions-transfer-AEN-camel.png
+.. figure:: ../../resources/images/guides-transactions-transfer-aen-camel.png
     :align: center
 
     AEN-camel
