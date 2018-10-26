@@ -12,5 +12,5 @@ case "${unameOut}" in
     *)          machine="UNKNOWN:${unameOut}"
 esac
 
-make livehtml
+make html
 echo ${machine}

@@ -7,7 +7,7 @@ echo "---------------------------------------"
 
 echo "--=== Run local Build ===--"
 pip install -r requirements.txt
-make livehtml
+./build.sh
 echo "-----------------------------------------"
 echo "Version $1" > ./server/version.html
 echo "--------------------------------------"
