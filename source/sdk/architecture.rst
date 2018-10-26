@@ -49,7 +49,7 @@ References
 Package Organization
 ********************
 
-.. figure:: ../resources/images/AEN-sdk-architecture.png
+.. figure:: ../resources/images/aen-sdk-architecture.png
     :width: 400px
     :align: center
 
