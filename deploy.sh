@@ -14,7 +14,7 @@ echo "--------------------------------------"
 
 echo "--=== Transfer files to remote Server ===--"
 echo 'rsync -avzhe ssh  --rsync-path="rsync" ./build jenkins@$2:$3'
-rsync -avzhe ssh  --rsync-path="rsync" . jenkins@$2:$3
+rsync -avzhe ssh  --rsync-path="rsync" ./build/html/ jenkins@$2:$3
 echo "---------------------------------------"
 
 echo "----====== Start up Service for cron to keep system live ======----"
