@@ -22,8 +22,6 @@ Community libraries
 
 Do you need to create a NIP to create a library? No, you don’t. In fact, we suggest not submitting a NIP until you build a library that improves the AEN blockchain and the different projects that use it. Since the library can be changed multiple times, developers should spend more time experimenting and learning, creating a specification later on.
 
-Add a new library to this page by clicking the *"Edit on Github"* button at the top-right part of the screen.
-
 .. csv-table::
    :header: "Name", "Description", "Active Developers"
    :delim: ;

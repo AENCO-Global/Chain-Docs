@@ -30,12 +30,3 @@ Ongoing work
    Rapid prototyping with AEN blockchain ; Deploy your first blockchain app without coding. ; Analysts and developers (AEN novice) ; AEN Foundation
    Atomic cross-chain swap between different blockchains ; Learn how to code cross-chain transactions between two private chains. ; Developers (AEN competent) ; AEN Foundation
 
-
-Creating and publishing a new workshop
-======================================
-
-The workshops published in this section must be open source, available online and come with a written or recorded guide.
-
-We suggest forking the `AEN-workshop-template <https://github.com/AENtech/AEN-workshop-template>`_, and follow the :doc:`guideline <workshops/creating-a-new-workshop>`.
-
-Once the workshop sounds complete, add it to this page by clicking the *"Edit on Github"* button at the top-right part of the screen.

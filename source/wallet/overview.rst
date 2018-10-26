@@ -19,13 +19,7 @@ Official tools
 Community tools
 ***************
 
-Add a new wallet to this page by clicking the *"Edit on Github"* button at the top-right part of the screen.
-
-.. csv-table::
-   :header: "Wallet Name", "Description", "Repository", "Active Developers"
-   :delim: ;
-
-   Be the first one! ; ; ; 
+New tools and other asistive applications will be included here
 
 .. |AEN-cli-repo| raw:: html
 

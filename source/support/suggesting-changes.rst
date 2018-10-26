@@ -54,29 +54,6 @@ When you contribute code, you affirm that the contribution is your original work
 
 Whether or not you state this explicitly, by submitting any copyrighted material via pull request, email, or other means you agree to license the material under the project's open source license and warrant that you have the legal authority to do so.
 
-Fork and clone the repository
-=============================
-
-If the documentation change is small, you can use the *"Edit on Github"* button at the top of the page.
-
-For substantial changes or contributions, you may need to fork the main |repository| and clone it to your local machine. See |github-help| page for help.
-
-Further instructions for specific projects are given below.
-
-Submitting your changes
-=======================
-
-Once your changes and tests are ready to submit for review:
-
-1. Test your changes
-
-    Run ``make livehtml`` and preview your changes.
-
-2. Submit a pull request
-
-    Push your local changes to your forked copy of the repository and |pull-request|. In the pull request, choose a title which sums up the changes that you have made, and in the body provide more details about what your changes do. Also mention the number of the issue where discussion has taken place, eg "Closes #123".
-
-Then sit back and wait. There will probably be a discussion about the pull request and, if any changes are needed, we would love to work with you to get your pull request merged into AEN-docs.
 
 *CONTRIBUTING.md* is based on `CONTRIBUTING-template.md <https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md>`_ , `elasticsearch/CONTRIBUTING <https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md>`_ and `spark/CONTRIBUTING <https://github.com/apache/spark/blob/master/CONTRIBUTING.md>`_.
 

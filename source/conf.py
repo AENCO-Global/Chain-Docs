@@ -312,7 +312,7 @@ html_favicon = 'favicon-32x32.png'
 
 # -- Options for edit on github ----------------------------------------------
 
-edit_on_github_project = 'AENtech/AEN-docs'
+edit_on_github_project = 'AENCo-Global/Chain-Docs'
 edit_on_github_branch = 'master'
 
 # -- Options for edit scaled images ----------------------------------------------
