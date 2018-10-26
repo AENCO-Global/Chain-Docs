@@ -18,7 +18,7 @@ echo "Version $1" > .//version.html
 echo "--------------------------------------"
 
 echo "--=== Transfer files to remote Server ===--"
-echo "rsync -avzhe ssh  --rsync-path='rsync' ./build jenkins@$2:$3"
+echo "rsync -avzhe ssh  --rsync-path='rsync' ./build/html/ jenkins@$2:$3"
 rsync -avzhe ssh  --rsync-path="rsync" ./build/html/ jenkins@$2:$3
 echo "---------------------------------------"
 
